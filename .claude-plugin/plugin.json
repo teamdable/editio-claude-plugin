@@ -1,0 +1,18 @@
+{
+  "name": "editio",
+  "displayName": "editio",
+  "version": "1.0.0",
+  "description": "editio CMS 기사 검색, 원고와 기사 설정 수정, 송고와 데스크 검토",
+  "author": {
+    "name": "Dable",
+    "url": "https://editio.kr"
+  },
+  "homepage": "https://editio.kr",
+  "license": "Apache-2.0",
+  "keywords": ["cms", "newsroom", "articles", "editorial"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://cms.editio.kr/support",
+  "supportUrl": "https://cms.editio.kr/support",
+  "privacyPolicyUrl": "https://cms.editio.kr/privacy",
+  "termsOfServiceUrl": "https://cms.editio.kr/terms"
+}

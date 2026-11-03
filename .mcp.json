@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "editio": {
+      "type": "http",
+      "url": "https://cms.editio.kr/api/v2/mcp"
+    }
+  }
+}
